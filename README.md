@@ -1,5 +1,8 @@
 # Cards Of Valhalla Narrative Game AI Generative
-Project created to deliver the AI ​​course for DIO Devs with Santander
+### Project created to deliver the AI ​​course for DIO Devs with Santander
+
+#### by Hellen Caroline Salvato
+💻 [carolsalvato.com](https://carolsalvato.com) | [Linkedin](https://www.linkedin.com/in/héllen-caroline-salvato-23702191/) | [Itch.io](https://carolsalvato.itch.io) | [Perfil DIO](https://www.dio.me/users/carol_lgl)
 
 ![CardsOfValhallaTrailer002-Cover](https://github.com/user-attachments/assets/b5ceb000-c232-4907-a5ad-2e492f34cab8)
 
@@ -34,4 +37,6 @@ Always make conscious and careful use of AI tools, and learn about the main prob
 [Linkedin - Challenges and Negative Aspects of Generative AI: A Analysis](https://www.linkedin.com/pulse/challenges-negative-aspects-generative-ai-analysis-salvato-6mqpf/?trackingId=QFM%2BnoV5QvmrHcywc%2BpVdg%3D%3D)
 
 [Medium - Challenges and Negative Aspects of Generative AI: A Analysis](https://medium.com/al-game-code/challenges-and-negative-aspects-of-generative-ai-a-comprehensive-analysis-09226994b43e)
+
+![DALL·E 2024-06-18 15 27 01 - A detailed illustration of a young Viking warrior with a short black beard, designed as a card for a Viking-themed card game  The card has Norse desig](https://github.com/user-attachments/assets/f4d2622c-9865-4a71-a0bb-9c629de640a0)
 

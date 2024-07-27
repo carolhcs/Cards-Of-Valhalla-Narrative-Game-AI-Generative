@@ -38,5 +38,6 @@ Always make conscious and careful use of AI tools, and learn about the main prob
 
 [Medium - Challenges and Negative Aspects of Generative AI: A Analysis](https://medium.com/al-game-code/challenges-and-negative-aspects-of-generative-ai-a-comprehensive-analysis-09226994b43e)
 
-![DALL·E 2024-06-18 15 27 01 - A detailed illustration of a young Viking warrior with a short black beard, designed as a card for a Viking-themed card game  The card has Norse desig](https://github.com/user-attachments/assets/f4d2622c-9865-4a71-a0bb-9c629de640a0)
+![UniversalUpscaler_f3d6deec-ae2c-48c9-a7a5-b09a645454df](https://github.com/user-attachments/assets/efcfd679-c911-4389-80ca-68705bdc805c)
 
+*Image of one of the game's cards, created with ChatGPT4o and Upsacaled with Leonardo.AI*

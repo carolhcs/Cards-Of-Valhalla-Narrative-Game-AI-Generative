@@ -19,8 +19,13 @@ Tools used to create the Teaser:
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
 
-## 🚀 Resultados
+## 🚀 Results
 [Youtube Video](https://www.youtube.com/watch?v=h3ecKrBqTdY)
 
-## 💭 Reflexão (Opcional)
+## 💭 Think
 Always make conscious and careful use of AI tools, and learn about the main problems of generative AI in my article on LinkedIn "Challenges and Negative Aspects of Generative AI: A Analysis".
+
+[Linkedin - Challenges and Negative Aspects of Generative AI: A Analysis](https://www.linkedin.com/pulse/challenges-negative-aspects-generative-ai-analysis-salvato-6mqpf/?trackingId=QFM%2BnoV5QvmrHcywc%2BpVdg%3D%3D)
+
+[Medium - Challenges and Negative Aspects of Generative AI: A Analysis](https://medium.com/al-game-code/challenges-and-negative-aspects-of-generative-ai-a-comprehensive-analysis-09226994b43e)
+

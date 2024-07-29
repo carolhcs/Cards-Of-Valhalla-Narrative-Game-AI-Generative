@@ -2,7 +2,7 @@
 ### Project created to deliver the AI ​​course for DIO Devs with Santander
 
 #### by Hellen Caroline Salvato
-💻 [carolsalvato.com](https://carolsalvato.com) | [Linkedin](https://www.linkedin.com/in/héllen-caroline-salvato-23702191/) | [Itch.io](https://carolsalvato.itch.io) | [Perfil DIO](https://www.dio.me/users/carol_lgl)
+💻 [carolsalvato.com](https://carolsalvato.com) | [Linkedin](https://www.linkedin.com/in/héllen-caroline-salvato-23702191/) | [Itch.io](https://carolsalvato.itch.io) | [Perfil DIO](https://www.dio.me/users/carol_lgl) | [Game Prototype](https://carolsalvato.itch.io/cards-of-valhalla)
 
 ![CardsOfValhallaTrailer002-Cover](https://github.com/user-attachments/assets/b5ceb000-c232-4907-a5ad-2e492f34cab8)
 

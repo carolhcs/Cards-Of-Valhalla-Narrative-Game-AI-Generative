@@ -31,6 +31,8 @@ With all the notes taken, I started generating the scenes in the Haiper tool. I 
 ## 🚀 Results
 [Youtube Video](https://www.youtube.com/watch?v=h3ecKrBqTdY)
 
+[Game Project](https://carolsalvato.itch.io/cards-of-valhalla)
+
 ## 💭 Think
 Always make conscious and careful use of AI tools, and learn about the main problems of generative AI in my article on LinkedIn "Challenges and Negative Aspects of Generative AI: A Analysis".
 
